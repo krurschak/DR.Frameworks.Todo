@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\git_modules\DR.Packages.Mongo\src\DR.Packages.Mongo\DR.Packages.Mongo.csproj" />
+  </ItemGroup>
+
+</Project>

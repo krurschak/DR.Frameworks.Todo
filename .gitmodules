@@ -1,0 +1,3 @@
+[submodule "git_modules/DR.Packages.Mongo"]
+	path = git_modules/DR.Packages.Mongo
+	url = git@github.com:krurschak/DR.Packages.Mongo.git
